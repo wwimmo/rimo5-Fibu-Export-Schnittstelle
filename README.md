@@ -3,7 +3,8 @@
 <!--ts-->
 Table of contents
    * [Eingabemaske für den Fibuexport (Bewegungsdaten)](#Eingabemaske-für-den-Fibuexport-Bewegungsdaten)
-   * [Tabellendefinition](#Tabellendefinition)
+   * [Felddefinition](#Felddefinition)
+   * [Musterdatei](#Musterdatei)
 
 # Eingabemaske für den Fibuexport (Bewegungsdaten)
 Die Schnittstelle MIS-Export exportiert Daten aus Tabellen oder Views, aus Rimo in CSV-Files ins lokale Dateisystem.
@@ -87,3 +88,7 @@ Mit der Bestätigung durch „OK“ erscheint ein Journal, das wir ausdrucken k�
 | 61 |  |  |  |  |  | Leer |
 | 62 |  |  |  |  |  | Leer |
 | 63 | A | 1 | Konstante | ‚E’ | Ja | E |
+
+# Musterdatei
+Eine Beispieldatei findet man hier: [Fibuexp_Muster.txt](Fibuexp_Muster.txt)
+
