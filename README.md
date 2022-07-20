@@ -92,3 +92,14 @@ Mit der Bestätigung durch „OK“ erscheint ein Journal, das wir ausdrucken k�
 # Musterdatei
 Eine Beispieldatei findet man hier: [Fibuexp_Muster.txt](Fibuexp_Muster.txt)
 
+# Export
+Exportiert werden die Daten nun in der Schnittstelle Fibu, per: KUNDENADMINISTRATION / EXPORT/IMPORT / FIBU-EXPORT
+
+Hier müssen nun die entsprechenden Finanzbuchhaltungen selektiert werden. Pro Fibu, sprich pro Geschäftsbereich muss ein separater Export erfolgen. Dabei muss unter Mandanten für jede Fibu der entsprechende Geschäftsbereich angewählt werden. Achtung: Rimo prüft hier nichts – als Kunde muss man beim Export also darauf achten, dass man für die jeweilige Fibu den korrekten Mandanten anwählt.
+
+Die Information welches Gegenkonto zu verwenden ist, muss der Kunde liefern. Bei Abacus ist dies in der Regel Konto «9999».
+
+Zum Schluss den gewünschten _Pfad_ angeben und Rimo exportiert die Daten. Achtung: Der Dateiname kann nicht beeinflusst werden. Das heisst Rimo exportiert die Datei immer mit demselben Namen. Deshalb die Datei nach Export zuerst umbenennen bzw. wegkopieren, da sie ansonsten überschrieben wird.
+
+Ein Export kann unter _Fibu-Export wiederholen_ nochmals ausgeführt werden.
+Rimo schreibt auf jede Buchung ein Export-Datum, damit diese nicht doppelt exportiert werden.
