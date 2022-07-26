@@ -93,6 +93,10 @@ Mit der Bestätigung durch „OK“ erscheint ein Journal, das wir ausdrucken k�
 # Musterdatei
 Eine Beispieldatei findet man hier: [Fibuexp_Muster.txt](Fibuexp_Muster.txt)
 
+Einen Testexport aus unserer Fibu-Export Schnittstelle zu Abacus ist hier zu finden: [Abacus-Fibu-Muster.csb](Abacus-Fibu-Muster.csb) <br>
+**Achtung:** Es handelt sich hierbei um eine allgemeine Musterliegenschaften und nicht um die produktive Daten. 
+ 
+
 # Export
 Exportiert werden die Daten nun in der Schnittstelle Fibu, per: KUNDENADMINISTRATION / EXPORT/IMPORT / FIBU-EXPORT
 
